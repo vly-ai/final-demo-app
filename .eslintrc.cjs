@@ -8,7 +8,8 @@ module.exports = {
     ".eslintrc.cjs",
     "convex/_generated",
     // There are currently ESLint errors in shadcn/ui
-    "components/ui",
+    "components/",
+
   ],
   parserOptions: {
     project: true,
